@@ -38,6 +38,7 @@ Console.WriteLine("##                                                   ##");
 Console.WriteLine("##   Debes adivinar el numero que penso la maquina   ##");
 Console.WriteLine("#######################################################");
 Console.WriteLine("\n");
+Console.ResetColor();
 do
 {
     Console.WriteLine("Por favor ingrese un numero del 1 al 20...");

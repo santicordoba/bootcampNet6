@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\bin\Debug\net6.0\Tarea3.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\bin\Debug\net6.0\Tarea3.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\bin\Debug\net6.0\Tarea3.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\bin\Debug\net6.0\Tarea3.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\bin\Debug\net6.0\Tarea3.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\refint\Tarea3.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\Tarea3.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea3\Tarea3\obj\Debug\net6.0\ref\Tarea3.dll
