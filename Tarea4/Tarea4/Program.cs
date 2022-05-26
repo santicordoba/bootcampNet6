@@ -35,7 +35,7 @@ for (int i = 0; i < lengthFilas; i++)
 
 
 // VECTOR PROMEDIO DE MISMO TAMAÑO QUE LA CANTIDAD DE COLUMNAS
-double[] promedios = new double[filas];
+double[] promedios = new double[columnas];
 
 for (int i = 0; i < lengthFilas; i++)
 {
@@ -44,15 +44,15 @@ for (int i = 0; i < lengthFilas; i++)
     for (int j = 0; j < lengthColumnas; j++)
     {
         Console.WriteLine($"Nº de la posición {j} -> {numeros[i,j]}");
-        suma += numeros[i, j];
+        promedios[j] += numeros[i, j];
     }
     Console.WriteLine("_______________________________________");
-    promedios[i] = suma / columnas;
+
 }
 
 
 for(int k = 0; k < promedios.Length; k++)
 {
-    Console.Write($"Promedios para la fila {k} -> ");
-    Console.WriteLine(promedios[k]);
+    Console.Write($"Promedios para la columna {k} -> ");
+    Console.WriteLine(promedios[k]/filas);
 }
