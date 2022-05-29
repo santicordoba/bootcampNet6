@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6\\Tarea6\\Tarea6-CartonDeBingo.csproj": {}
+    "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6-CartonDeBingo\\Tarea6\\Tarea6-CartonDeBingo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6\\Tarea6\\Tarea6-CartonDeBingo.csproj": {
+    "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6-CartonDeBingo\\Tarea6\\Tarea6-CartonDeBingo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6\\Tarea6\\Tarea6-CartonDeBingo.csproj",
+        "projectUniqueName": "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6-CartonDeBingo\\Tarea6\\Tarea6-CartonDeBingo.csproj",
         "projectName": "Tarea6-CartonDeBingo",
-        "projectPath": "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6\\Tarea6\\Tarea6-CartonDeBingo.csproj",
+        "projectPath": "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6-CartonDeBingo\\Tarea6\\Tarea6-CartonDeBingo.csproj",
         "packagesPath": "C:\\Users\\sdc_s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6\\Tarea6\\obj\\",
+        "outputPath": "C:\\Users\\sdc_s\\Documents\\Curso .Net C#\\Tarea6-CartonDeBingo\\Tarea6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sdc_s\\AppData\\Roaming\\NuGet\\NuGet.Config",

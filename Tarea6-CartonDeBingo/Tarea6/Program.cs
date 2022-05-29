@@ -49,11 +49,11 @@ int cantGuardados = 0;
  * 
  * Uso dos for para generar los numeros
  * en orden primero los de la fila 0, 
- * luego la 1 y luego la 2.
+ * luego la 1, la ultima fila la generare por separado.
  * 
  **/
 
-for (int i = 0; i < 3; i++)
+for (int i = 0; i < 2; i++)
 {
     int fila = i;
     for (int j = 0; j < 5; j++)
@@ -193,6 +193,280 @@ for (int i = 0; i < 3; i++)
     }
 
 }
+
+
+/**
+ * 
+ * La ultima fila requiere un control especial
+ * primero agregare numeros solo donde no haya
+ * ninguno y luego agregare donde haya uno solo
+ * 
+ **/
+
+
+int cantNumerosUltimaFila = 0;
+int indice = 0;
+
+while (indice < 9 && cantNumerosUltimaFila <= 5)
+{
+    if(cantNumerosCol[indice] == 0)
+    {
+        /**
+         * 
+         * Switch para generar numeros dependiendo
+         * la columna a guardar.
+         * 
+         * */
+
+        int numeroRandom = 0;
+
+        switch (indice)
+        {
+            case 0:
+                numeroRandom = rand.Next(0, 9);
+                /**
+                 * 
+                 * No debe repetirse el numero 
+                 * por lo tanto si ocurre genero
+                 * un nuevo numero
+                 * 
+                 * */
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(0, 9);
+                }
+                break;
+            case 1:
+                numeroRandom = rand.Next(10, 19);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(10, 19);
+                }
+                break;
+            case 2:
+                numeroRandom = rand.Next(20, 29);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(20, 29);
+                }
+                break;
+            case 3:
+                numeroRandom = rand.Next(30, 39);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(30, 39);
+                }
+                break;
+            case 4:
+                numeroRandom = rand.Next(40, 49);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(40, 49);
+                }
+                break;
+            case 5:
+                numeroRandom = rand.Next(50, 59);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(50, 59);
+                }
+                break;
+            case 6:
+                numeroRandom = rand.Next(60, 69);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(60, 69);
+                }
+                break;
+            case 7:
+                numeroRandom = rand.Next(70, 79);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(70, 79);
+                }
+                break;
+            case 8:
+                numeroRandom = rand.Next(80, 90);
+                while (numerosEnCarton.Contains(numeroRandom))
+                {
+                    numeroRandom = rand.Next(80, 90);
+                }
+                break;
+
+        }
+
+        /**
+         * 
+         * Ya tengo la columna que cumple la condicion
+         * y genere el numero correspondiente para esa
+         * columna y no se repite, entonces lo
+         * guardo el en el carton
+         * 
+         * */
+        carton[2, indice] = numeroRandom;
+
+        /**
+         * 
+         * guardo el numero en el array de numeros 
+         * para luego poder comparar si existe o no
+         * en el carton y sumo un nuevo numero guardado
+         * 
+         * */
+        numerosEnCarton[cantGuardados] = numeroRandom;
+        cantGuardados++;
+
+        /**
+         * 
+         * Contamos un nuevo numero en la columna 
+         * de modo de tener control de que no haya
+         * mas de 2 por cada columna
+         * 
+         **/
+        cantNumerosCol[indice]++;
+
+        cantNumerosUltimaFila++;
+        
+
+    }
+    indice++;
+}
+
+for(int pos = cantNumerosUltimaFila; pos < 5; pos++)
+{
+    /**
+     * 
+     * Genero una columna aleatoria
+     * 
+     * */
+    int randCol = rand.Next(9);
+
+    /**
+     * 
+     * Si en una posicion ya he guardado 
+     * un numero no debo sobreescribirlo o
+     * si en esa columna hay 2 numeros o más, 
+     * en cualquiera de los dos casos genero
+     * una nueva columna
+     * 
+     * */
+    while (carton[2, randCol] != 0 || cantNumerosCol[randCol] >= 2)
+    {
+        randCol = rand.Next(9);
+    }
+
+    int numeroRandom = 0;
+
+    /**
+     * 
+     * Switch para generar numeros dependiendo
+     * la columna a guardar.
+     * 
+     * */
+    switch (randCol)
+    {
+        case 0:
+            numeroRandom = rand.Next(0, 9);
+            /**
+             * 
+             * No debe repetirse el numero 
+             * por lo tanto si ocurre genero
+             * un nuevo numero
+             * 
+             * */
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(0, 9);
+            }
+            break;
+        case 1:
+            numeroRandom = rand.Next(10, 19);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(10, 19);
+            }
+            break;
+        case 2:
+            numeroRandom = rand.Next(20, 29);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(20, 29);
+            }
+            break;
+        case 3:
+            numeroRandom = rand.Next(30, 39);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(30, 39);
+            }
+            break;
+        case 4:
+            numeroRandom = rand.Next(40, 49);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(40, 49);
+            }
+            break;
+        case 5:
+            numeroRandom = rand.Next(50, 59);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(50, 59);
+            }
+            break;
+        case 6:
+            numeroRandom = rand.Next(60, 69);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(60, 69);
+            }
+            break;
+        case 7:
+            numeroRandom = rand.Next(70, 79);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(70, 79);
+            }
+            break;
+        case 8:
+            numeroRandom = rand.Next(80, 90);
+            while (numerosEnCarton.Contains(numeroRandom))
+            {
+                numeroRandom = rand.Next(80, 90);
+            }
+            break;
+
+    }
+
+    /**
+     * 
+     * Ya tengo la columna que cumple la condicion
+     * y genere el numero correspondiente para esa
+     * columna y no se repite, entonces lo
+     * guardo el en el carton
+     * 
+     * */
+    carton[2, randCol] = numeroRandom;
+
+    /**
+     * 
+     * guardo el numero en el array de numeros 
+     * para luego poder comparar si existe o no
+     * en el carton y sumo un nuevo numero guardado
+     * 
+     * */
+    numerosEnCarton[cantGuardados] = numeroRandom;
+    cantGuardados++;
+
+    /**
+     * 
+     * Contamos un nuevo numero en la columna 
+     * de modo de tener control de que no haya
+     * mas de 2 por cada columna
+     * 
+     **/
+    cantNumerosCol[randCol]++;
+}
+
 
 /**
  * 

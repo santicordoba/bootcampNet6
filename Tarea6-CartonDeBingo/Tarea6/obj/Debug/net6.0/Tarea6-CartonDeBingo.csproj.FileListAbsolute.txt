@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\bin\Debug\net6.0\Tarea6-CartonDeBingo.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\bin\Debug\net6.0\Tarea6-CartonDeBingo.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\bin\Debug\net6.0\Tarea6-CartonDeBingo.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\bin\Debug\net6.0\Tarea6-CartonDeBingo.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\bin\Debug\net6.0\Tarea6-CartonDeBingo.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\refint\Tarea6-CartonDeBingo.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\Tarea6-CartonDeBingo.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea6-CartonDeBingo\Tarea6\obj\Debug\net6.0\ref\Tarea6-CartonDeBingo.dll
