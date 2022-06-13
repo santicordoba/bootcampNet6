@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\bin\Debug\net6.0\Tarea8-BarajaDeCartas.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\bin\Debug\net6.0\Tarea8-BarajaDeCartas.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\bin\Debug\net6.0\Tarea8-BarajaDeCartas.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\bin\Debug\net6.0\Tarea8-BarajaDeCartas.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\bin\Debug\net6.0\Tarea8-BarajaDeCartas.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\refint\Tarea8-BarajaDeCartas.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\Tarea8-BarajaDeCartas.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea8-BarajaDeCartas\Tarea8-BarajaDeCartas\obj\Debug\net6.0\ref\Tarea8-BarajaDeCartas.dll

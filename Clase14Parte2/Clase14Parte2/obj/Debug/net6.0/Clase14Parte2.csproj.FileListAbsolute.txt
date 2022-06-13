@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\bin\Debug\net6.0\Clase14Parte2.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\bin\Debug\net6.0\Clase14Parte2.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\bin\Debug\net6.0\Clase14Parte2.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\bin\Debug\net6.0\Clase14Parte2.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\bin\Debug\net6.0\Clase14Parte2.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\refint\Clase14Parte2.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\Clase14Parte2.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase14Parte2\Clase14Parte2\obj\Debug\net6.0\ref\Clase14Parte2.dll

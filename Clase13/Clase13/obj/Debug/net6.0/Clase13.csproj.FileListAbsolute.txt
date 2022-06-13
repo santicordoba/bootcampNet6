@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\bin\Debug\net6.0\Clase13.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\bin\Debug\net6.0\Clase13.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\bin\Debug\net6.0\Clase13.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\bin\Debug\net6.0\Clase13.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\bin\Debug\net6.0\Clase13.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\refint\Clase13.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\Clase13.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase13\Clase13\obj\Debug\net6.0\ref\Clase13.dll

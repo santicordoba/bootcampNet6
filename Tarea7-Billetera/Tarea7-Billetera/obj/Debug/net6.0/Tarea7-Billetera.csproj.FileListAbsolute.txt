@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\bin\Debug\net6.0\Tarea7-Billetera.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\bin\Debug\net6.0\Tarea7-Billetera.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\bin\Debug\net6.0\Tarea7-Billetera.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\bin\Debug\net6.0\Tarea7-Billetera.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\bin\Debug\net6.0\Tarea7-Billetera.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\refint\Tarea7-Billetera.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\Tarea7-Billetera.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Tarea7-Billetera\Tarea7-Billetera\obj\Debug\net6.0\ref\Tarea7-Billetera.dll
