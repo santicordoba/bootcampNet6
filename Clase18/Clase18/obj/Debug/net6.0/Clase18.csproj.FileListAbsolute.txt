@@ -1,0 +1,15 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\bin\Debug\net6.0\Clase18.exe
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\bin\Debug\net6.0\Clase18.deps.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\bin\Debug\net6.0\Clase18.runtimeconfig.json
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\bin\Debug\net6.0\Clase18.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\bin\Debug\net6.0\Clase18.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.csproj.CoreCompileInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\refint\Clase18.dll
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.pdb
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\Clase18.genruntimeconfig.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase18\Clase18\obj\Debug\net6.0\ref\Clase18.dll
