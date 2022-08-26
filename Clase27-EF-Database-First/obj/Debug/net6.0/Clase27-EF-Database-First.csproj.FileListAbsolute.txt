@@ -1,0 +1,5 @@
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase27-EF-Database-First\obj\Debug\net6.0\Clase27-EF-Database-First.csproj.AssemblyReference.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase27-EF-Database-First\obj\Debug\net6.0\Clase27-EF-Database-First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase27-EF-Database-First\obj\Debug\net6.0\Clase27-EF-Database-First.AssemblyInfoInputs.cache
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase27-EF-Database-First\obj\Debug\net6.0\Clase27-EF-Database-First.AssemblyInfo.cs
+C:\Users\sdc_s\Documents\Curso .Net C#\Clase27-EF-Database-First\obj\Debug\net6.0\Clase27-EF-Database-First.csproj.CoreCompileInputs.cache
