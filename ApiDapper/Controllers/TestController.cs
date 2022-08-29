@@ -9,18 +9,34 @@ namespace ApiDapper.Controllers
     [ApiController]
     public class TestController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("/api/products")]
         public List<Product> GetAllProducts()
         {
             var rule = new ProductRule();
             return rule.GetAllProducts();
         }
 
-        [HttpGet("/api/test/{id}")]
+        [HttpGet("/api/products/{id}")]
         public Product GetProductById(int id)
         {
             var rule = new ProductRule();
             return rule.GetProductById(id);
         }
+
+        [HttpGet("/api/orders")]
+        public List<Order> GetAllOrders()
+        {
+            var rule = new OrderRule();
+            return rule.GetAllOrders();
+        }
+
+        [HttpDelete("/api/orders/")]
+        public RespuestaDelete DeleteOrderById(int orderId)
+        {
+            var rule = new OrderRule();
+            return rule.DeleteOrderById(orderId);
+        }
+
     }
+
 }
