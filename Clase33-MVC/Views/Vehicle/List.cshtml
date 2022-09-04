@@ -1,0 +1,22 @@
+﻿@model VehicleListViewModel
+
+<h1>Listado de Vehiculos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>DOMINIO</td>
+            <td>AÑO DE FABRICACION</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var vehiculo in Model.Vehiculos){
+            <tr>
+                <td>@vehiculo.Id</td>
+                <td>@vehiculo.Dominio</td>
+                <td>@vehiculo.AnoFabricacion</td>
+            </tr>
+        }
+    </tbody>
+</table>

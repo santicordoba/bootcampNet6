@@ -1,0 +1,22 @@
+﻿@model List<UserViewModel>
+
+<h1>Usuarios</h1>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>USERNAME</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.UserName</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
